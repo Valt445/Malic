@@ -1,3 +1,6 @@
 [submodule "Malic/vendor/spdlog"]
 	path = Malic/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Malic/Malic/vendor/spdlog"]
+	path = Malic/Malic/vendor/spdlog
+	url = https://github.com/gabime/spdlog

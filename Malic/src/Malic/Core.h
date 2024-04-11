@@ -9,3 +9,5 @@
 #else
 	#error Malic only supports windows
 #endif
+
+#define BIT(X) (1 << x)
